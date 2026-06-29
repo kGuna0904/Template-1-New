@@ -1,0 +1,6 @@
+--->Date-29/06/2026 – iStudio template
+
+        Built navbar (logo, nav links, nested dropdowns for Service/Project/Pages)
+        Built hero section- need to add the carousel
+        Practiced absolute positioning for overlaying text on images
+        To revisit: .hero-bg incomplete rule, empty carousel-item content, fixed margin-left on .push-right needs responsive fix
