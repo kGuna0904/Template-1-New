@@ -1,0 +1,78 @@
+.img-fluid{
+    top: 0px;
+    width: 300vb;
+    height: 110vh;
+    
+}
+
+.nav-link:hover{
+    color: #0D6B68;
+}
+.nav-link{
+    color: black;
+}
+.nav-link:active{
+    color: #0D6B68;
+}
+
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: rgb(230 240 239) !important;
+}
+
+.push-right{
+    display: flex;
+    margin-left: 570px;
+    font-size: large;
+}
+
+.services{
+    padding-right: 61px;
+}
+
+.our-team, .feature{
+    padding-right: 30px;
+}
+
+.dropdown-item:hover{
+    background-color: #0D6B68;
+    color: white;
+}
+
+.dropdown-menu{
+    border: none;
+}
+
+.hero-items{
+    position: absolute;
+    top: 42%;
+    right: 54%;
+    width: 600px;
+    font-size: 5em;
+    line-height: 100px;
+}
+
+.home-span{
+    color:#0D6B68;
+}
+
+.hero-bg{
+    max-height: 10px;/*note: need to work on this*/
+    overflow-y: hidden;/*look into it*/
+}
+
+.box-text{
+    padding: 10px;
+    border:2px solid white;
+    position: absolute;
+    top: 75%;
+    right: 66%;
+    font-size: 20px;
+    width: 400px;
+    text-align: center;
+}
+
+.carousel-indicators{
+    display: flex !important;
+    flex-direction: column;
+}
