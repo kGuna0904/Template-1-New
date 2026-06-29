@@ -1,0 +1,12 @@
+BUILD--
+    -->10 pages/sections:
+            navbar
+            hero section
+            about section (image) 
+            about section (text)
+            Projects
+            Services
+            Profile (Team)
+            Feedback
+            Newsletter
+            Footer 
