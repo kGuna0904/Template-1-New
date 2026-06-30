@@ -4,3 +4,12 @@
         Built hero section- need to add the carousel
         Practiced absolute positioning for overlaying text on images
         To revisit: .hero-bg incomplete rule, empty carousel-item content, fixed margin-left on .push-right needs responsive fix
+
+
+--->Date-30/06/2026
+                
+        Built the Carousel in the hero content, and built the About section(image grid, history text, checklist, social buttons)
+        Debugged image sizing issues caused by missing width/height 
+        Learned CSS specificity issues with Bootstrap defaults (img-fluid, carousel-indicators)
+        Practiced CSS Grid (grid-template-columns) 
+        added button and styled CSS..

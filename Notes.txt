@@ -2,11 +2,14 @@ BUILD--
     -->10 pages/sections:
             navbar [DONE]
             hero section [DONE]
-            about section (image) 
-            about section (text)
+            about section (image) [DONE]
+            about section (text) [DONE]
             Projects
             Services
             Profile (Team)
             Feedback
             Newsletter
-            Footer 
+            Footer
+
+
+    --> Target- Thusrday[02/07/2026]       
