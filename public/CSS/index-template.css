@@ -1,6 +1,6 @@
 .img-fluid{
     top: 0px;
-    width: 300vb;
+    width: 300vw;
     height: 110vh;
     
 }
@@ -22,7 +22,7 @@
 
 .push-right{
     display: flex;
-    margin-left: 570px;
+    margin-left: 560px;
     font-size: large;
 }
 
@@ -75,4 +75,143 @@
 .carousel-indicators{
     display: flex !important;
     flex-direction: column;
+    position: absolute !important;
+    align-items: flex-end;
+    justify-content: flex-end;
+    right: 0 !important;
+    bottom: auto !important;
+    margin-right: -55px;
+    top: 150px !important;
+}
+
+.box-index{
+    position: absolute;
+    z-index: 0;
+    width: 350px;
+    height: 480px;
+    top: 190px;
+    right: 120px;
+    background-color: #0D6B68;
+}
+
+.hero-carousel{
+    position: absolute;
+    z-index: 1;
+    top: -620px;
+    right: -580px; 
+    transition-duration: 300ms;
+    transition-delay: 30ms;  
+}
+
+.hero-carousel img{
+    width: 550px;
+    height: 400px;
+    object-fit: cover;
+}    
+
+.c-items{
+    width: 550px;
+    height: 400px;
+}    
+    
+.icon-text{
+    position: absolute;
+    top: 740px;
+    right: 18%;
+    font-size: 20px;
+    gap: 55px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+
+.robot-icon{
+    width: 35px;
+    height: 35px;
+    padding: 5px;
+    margin: 15px;
+    border: 2px solid white !important; 
+}
+
+.about-text-box{
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+    color:white;
+    padding: 25px;
+    height: 100px;
+    background-color: #0D6B68;
+}
+
+
+/* was a problem, need to understand deeply*/
+.img1 img{
+    height: 450px;
+    width: 100%;
+}
+
+.card-img-top{
+    height: 350px;
+}
+
+.social-icons{
+    width: 15px;
+    height: 15px;  
+}
+
+.check-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px 5px;
+}
+
+.check{
+    display: flex;
+    width: 15px;
+    height: 15px; 
+    gap: 10px;
+}
+
+.check-item{
+    display: flex;
+    align-items: center;
+    
+}
+
+.button-section{
+    gap: 10px;
+}
+
+.btn-read{
+    text-decoration: none;
+    border-radius: 0%;
+    border: 2px solid #0D6B68;
+    background-color: #0D6B68;
+    color: white;
+    
+}
+.btn-read:hover{
+    
+    border: 2px solid #0f5855;
+    background-color: #0f5855;
+    color: white;
+    
+}
+
+.btn-icon{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid #0D6B68; 
+    border-radius: 0%;
+}
+
+.btn-icon:hover{
+   
+    background-color:#0D6B68;
+}
+
+.history{
+    color:#0D6B68;
+    background-color:#deefeb;
 }

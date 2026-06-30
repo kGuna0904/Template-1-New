@@ -1,7 +1,7 @@
 BUILD--
     -->10 pages/sections:
-            navbar
-            hero section
+            navbar [DONE]
+            hero section [DONE]
             about section (image) 
             about section (text)
             Projects
