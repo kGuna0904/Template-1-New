@@ -3,13 +3,13 @@ BUILD--
             navbar [DONE]
             hero section [DONE]
             about section (image) [DONE]
-            about section (text) [DONE]
-            Projects
+            features section (text) [DONE]
+            Projects [DONE]
             Services
             Profile (Team)
             Feedback
             Newsletter
-            Footer
+            Footer [DONE]
 
 
     --> Target- Thusrday[02/07/2026]       
