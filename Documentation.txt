@@ -13,3 +13,13 @@
         Learned CSS specificity issues with Bootstrap defaults (img-fluid, carousel-indicators)
         Practiced CSS Grid (grid-template-columns) 
         added button and styled CSS..
+
+--->Date-01/07/2026
+
+        Completed the Features, Projects section (6-image grid with overlay text and hover scale effect)
+        Learned position: relative + position: absolute pattern for overlaying text on images
+        Understood why overflow: hidden must be on the parent container, not the image itself
+        Built the Footer section (logo, address, social buttons, popular links, services links, copyright)
+        Used the <address> semantic HTML tag for contact info
+        Practiced CSS transitions (transform: scale) for hover effects on images and links
+        
