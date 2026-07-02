@@ -1,3 +1,9 @@
+body{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+
+
 .img-fluid{
     top: 0px;
     width: 300vw;
@@ -22,7 +28,7 @@
 
 .push-right{
     display: flex;
-    margin-left: 560px;
+    margin-left: 530px;
     font-size: large;
 }
 
